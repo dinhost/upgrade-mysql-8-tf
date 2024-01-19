@@ -1,0 +1,9 @@
+.terraform
+*.tfvars
+*.tfstate
+*.tfstate.backup
+*.terraform.*
+.idea
+.env
+.env.php
+*.sql
