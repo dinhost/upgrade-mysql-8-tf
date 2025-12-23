@@ -1,3 +1,3 @@
-output "mysql8_endpoint" {
-  value = aws_db_instance.mysql8.endpoint
+output "mysql84_endpoint" {
+  value = aws_db_instance.mysql84.endpoint
 }
